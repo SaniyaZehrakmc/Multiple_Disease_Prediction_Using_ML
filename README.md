@@ -60,7 +60,8 @@ Each model is trained using public and clinical datasets and utilizes tailored a
 
 ## 🙌 Acknowledgments
 
-- Project Made by **Saniya Zehra**
 - Guided by **Saomya Chaudhury**
 - Developed under the **AICTE TechSaksham Internship**
-- Powered by **Microsoft** and **SAP CSR Initiative**
+- Powered by **Microsoft** and **SAP CSR Initiative**\
+
+## 🙌 Project Made by **Saniya Zehra**
