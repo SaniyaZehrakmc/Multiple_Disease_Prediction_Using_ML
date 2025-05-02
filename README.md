@@ -28,13 +28,12 @@ Each model is trained using public and clinical datasets and utilizes tailored a
 
 ### Backend
 - Python 3.9+
-- Scikit-learn, Pandas, NumPy, Joblib
-- SHAP (planned for model explainability)
+- Scikit-learn, Pandas, NumPy
+- SHAP (planned for model explainability in Future )
 
 ### Frontend
 - Flask
 - Streamlit
-- Bootstrap + Custom CSS
 
 ### Tools & Environment
 - Jupyter Notebook
